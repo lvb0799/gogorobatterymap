@@ -182,7 +182,7 @@ function getGOGOROData(initRun) {
             
             moveToArea();
             
-            countStation(chooseData);
+            countStation(allStationInformation);
             
             return data;
         })
