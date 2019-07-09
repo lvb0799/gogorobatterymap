@@ -1,0 +1,2866 @@
+[
+    {
+        "COUNTYNAME": "台東縣",
+        "TOWNNAME": "成功鎮",
+        "COUNTYID": "V",
+        "ZIPCODE": 961,
+        "CENTERLONGITUDE": 121.353798346222,
+        "CENTERLATITUDE": 23.1266371649746
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "佳冬鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 931,
+        "CENTERLONGITUDE": 120.547612438793,
+        "CENTERLATITUDE": 22.4298062414283
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "麥寮鄉",
+        "COUNTYID": "P",
+        "ZIPCODE": 638,
+        "CENTERLONGITUDE": 120.243532976097,
+        "CENTERLATITUDE": 23.7881705569395
+    },
+    {
+        "COUNTYNAME": "台東縣",
+        "TOWNNAME": "綠島鄉",
+        "COUNTYID": "V",
+        "ZIPCODE": 951,
+        "CENTERLONGITUDE": 121.490195075043,
+        "CENTERLATITUDE": 22.6601753663447
+    },
+    {
+        "COUNTYNAME": "台東縣",
+        "TOWNNAME": "蘭嶼鄉",
+        "COUNTYID": "V",
+        "ZIPCODE": 952,
+        "CENTERLONGITUDE": 121.550832776061,
+        "CENTERLATITUDE": 22.0461683466765
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "田中鎮",
+        "COUNTYID": "N",
+        "ZIPCODE": 520,
+        "CENTERLONGITUDE": 120.590347064933,
+        "CENTERLATITUDE": 23.8572387152225
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "社頭鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 511,
+        "CENTERLONGITUDE": 120.602166084733,
+        "CENTERLATITUDE": 23.9053641294991
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "竹田鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 911,
+        "CENTERLONGITUDE": 120.526637911855,
+        "CENTERLATITUDE": 22.5885563570521
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "萬丹鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 913,
+        "CENTERLONGITUDE": 120.476618812122,
+        "CENTERLATITUDE": 22.5884954738961
+    },
+    {
+        "COUNTYNAME": "苗栗縣",
+        "TOWNNAME": "三灣鄉",
+        "COUNTYID": "K",
+        "ZIPCODE": 352,
+        "CENTERLONGITUDE": 120.952574506048,
+        "CENTERLATITUDE": 24.6359940537383
+    },
+    {
+        "COUNTYNAME": "新竹縣",
+        "TOWNNAME": "峨眉鄉",
+        "COUNTYID": "J",
+        "ZIPCODE": 315,
+        "CENTERLONGITUDE": 121.011080948058,
+        "CENTERLATITUDE": 24.6781119705245
+    },
+    {
+        "COUNTYNAME": "苗栗縣",
+        "TOWNNAME": "南庄鄉",
+        "COUNTYID": "K",
+        "ZIPCODE": 353,
+        "CENTERLONGITUDE": 121.017471015221,
+        "CENTERLATITUDE": 24.5660843176474
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "南屯區",
+        "COUNTYID": "B",
+        "ZIPCODE": 408,
+        "CENTERLONGITUDE": 120.617737937284,
+        "CENTERLATITUDE": 24.1416552423673
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "烏日區",
+        "COUNTYID": "B",
+        "ZIPCODE": 414,
+        "CENTERLONGITUDE": 120.629330514717,
+        "CENTERLATITUDE": 24.083927096358
+    },
+    {
+        "COUNTYNAME": "嘉義市",
+        "TOWNNAME": "西區",
+        "COUNTYID": "I",
+        "ZIPCODE": 600,
+        "CENTERLONGITUDE": 120.424872421661,
+        "CENTERLATITUDE": 23.4791552866909
+    },
+    {
+        "COUNTYNAME": "嘉義市",
+        "TOWNNAME": "東區",
+        "COUNTYID": "I",
+        "ZIPCODE": 600,
+        "CENTERLONGITUDE": 120.470624413835,
+        "CENTERLATITUDE": 23.4817033352
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "太保市",
+        "COUNTYID": "Q",
+        "ZIPCODE": 612,
+        "CENTERLONGITUDE": 120.344000872028,
+        "CENTERLATITUDE": 23.4729190979605
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "中埔鄉",
+        "COUNTYID": "Q",
+        "ZIPCODE": 606,
+        "CENTERLONGITUDE": 120.53653123091,
+        "CENTERLATITUDE": 23.404089982357
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "番路鄉",
+        "COUNTYID": "Q",
+        "ZIPCODE": 602,
+        "CENTERLONGITUDE": 120.607533513832,
+        "CENTERLATITUDE": 23.4276566861997
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "水上鄉",
+        "COUNTYID": "Q",
+        "ZIPCODE": 608,
+        "CENTERLONGITUDE": 120.414735704267,
+        "CENTERLATITUDE": 23.4291128671563
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "員林市",
+        "COUNTYID": "N",
+        "ZIPCODE": 510,
+        "CENTERLONGITUDE": 120.593072976619,
+        "CENTERLATITUDE": 23.9565044764916
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "旗津區",
+        "COUNTYID": "E",
+        "ZIPCODE": 805,
+        "CENTERLONGITUDE": 120.289153925231,
+        "CENTERLATITUDE": 22.5856558338097
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "小港區",
+        "COUNTYID": "E",
+        "ZIPCODE": 812,
+        "CENTERLONGITUDE": 120.3592605092,
+        "CENTERLATITUDE": 22.5514020719964
+    },
+    {
+        "COUNTYNAME": "連江縣",
+        "TOWNNAME": "南竿鄉",
+        "COUNTYID": "Z",
+        "ZIPCODE": 209,
+        "CENTERLONGITUDE": 119.931128,
+        "CENTERLATITUDE": 26.154321
+    },
+    {
+        "COUNTYNAME": "連江縣",
+        "TOWNNAME": "北竿鄉",
+        "COUNTYID": "Z",
+        "ZIPCODE": 210,
+        "CENTERLONGITUDE": 119.994251,
+        "CENTERLATITUDE": 26.225637
+    },
+    {
+        "COUNTYNAME": "連江縣",
+        "TOWNNAME": "莒光鄉",
+        "COUNTYID": "Z",
+        "ZIPCODE": 211,
+        "CENTERLONGITUDE": 119.938877,
+        "CENTERLATITUDE": 25.972980
+    },
+    {
+        "COUNTYNAME": "連江縣",
+        "TOWNNAME": "東引鄉",
+        "COUNTYID": "Z",
+        "ZIPCODE": 212,
+        "CENTERLONGITUDE": 120.490300,
+        "CENTERLATITUDE": 26.366101
+    },
+    {
+        "COUNTYNAME": "金門縣",
+        "TOWNNAME": "金城鎮",
+        "COUNTYID": "W",
+        "ZIPCODE": 893,
+        "CENTERLONGITUDE": 118.30128,
+        "CENTERLATITUDE": 24.38402
+    },
+    {
+        "COUNTYNAME": "金門縣",
+        "TOWNNAME": "金沙鎮",
+        "COUNTYID": "W",
+        "ZIPCODE": 890,
+        "CENTERLONGITUDE": 118.40841,
+        "CENTERLATITUDE": 24.45865
+    },
+    {
+        "COUNTYNAME": "金門縣",
+        "TOWNNAME": "金湖鎮",
+        "COUNTYID": "W",
+        "ZIPCODE": 891,
+        "CENTERLONGITUDE": 118.40373,
+        "CENTERLATITUDE": 24.41496
+    },
+    {
+        "COUNTYNAME": "金門縣",
+        "TOWNNAME": "金寧鄉",
+        "COUNTYID": "W",
+        "ZIPCODE": 892,
+        "CENTERLONGITUDE": 118.31705,
+        "CENTERLATITUDE": 24.42482
+    },
+    {
+        "COUNTYNAME": "金門縣",
+        "TOWNNAME": "烏坵鄉",
+        "COUNTYID": "W",
+        "ZIPCODE": 896,
+        "CENTERLONGITUDE": 119.452738,
+        "CENTERLATITUDE": 24.992338
+    },
+    {
+        "COUNTYNAME": "宜蘭縣",
+        "TOWNNAME": "宜蘭市",
+        "COUNTYID": "G",
+        "ZIPCODE": 260,
+        "CENTERLONGITUDE": 121.756935805332,
+        "CENTERLATITUDE": 24.7502118444599
+    },
+    {
+        "COUNTYNAME": "宜蘭縣",
+        "TOWNNAME": "羅東鎮",
+        "COUNTYID": "G",
+        "ZIPCODE": 265,
+        "CENTERLONGITUDE": 121.770178155447,
+        "CENTERLATITUDE": 24.6788482384756
+    },
+    {
+        "COUNTYNAME": "宜蘭縣",
+        "TOWNNAME": "礁溪鄉",
+        "COUNTYID": "G",
+        "ZIPCODE": 262,
+        "CENTERLONGITUDE": 121.734660623872,
+        "CENTERLATITUDE": 24.8114419219754
+    },
+    {
+        "COUNTYNAME": "宜蘭縣",
+        "TOWNNAME": "員山鄉",
+        "COUNTYID": "G",
+        "ZIPCODE": 264,
+        "CENTERLONGITUDE": 121.66122815434,
+        "CENTERLATITUDE": 24.7419923685441
+    },
+    {
+        "COUNTYNAME": "宜蘭縣",
+        "TOWNNAME": "冬山鄉",
+        "COUNTYID": "G",
+        "ZIPCODE": 269,
+        "CENTERLONGITUDE": 121.760255019492,
+        "CENTERLATITUDE": 24.6421498627515
+    },
+    {
+        "COUNTYNAME": "宜蘭縣",
+        "TOWNNAME": "三星鄉",
+        "COUNTYID": "G",
+        "ZIPCODE": 266,
+        "CENTERLONGITUDE": 121.664271376005,
+        "CENTERLATITUDE": 24.6677197201747
+    },
+    {
+        "COUNTYNAME": "宜蘭縣",
+        "TOWNNAME": "大同鄉",
+        "COUNTYID": "G",
+        "ZIPCODE": 267,
+        "CENTERLONGITUDE": 121.504036886227,
+        "CENTERLATITUDE": 24.5515208245214
+    },
+    {
+        "COUNTYNAME": "新竹縣",
+        "TOWNNAME": "竹東鎮",
+        "COUNTYID": "J",
+        "ZIPCODE": 310,
+        "CENTERLONGITUDE": 121.075363179286,
+        "CENTERLATITUDE": 24.730758019945
+    },
+    {
+        "COUNTYNAME": "新竹縣",
+        "TOWNNAME": "新埔鎮",
+        "COUNTYID": "J",
+        "ZIPCODE": 305,
+        "CENTERLONGITUDE": 121.093988632325,
+        "CENTERLATITUDE": 24.8413395914981
+    },
+    {
+        "COUNTYNAME": "新竹縣",
+        "TOWNNAME": "關西鎮",
+        "COUNTYID": "J",
+        "ZIPCODE": 306,
+        "CENTERLONGITUDE": 121.186622052466,
+        "CENTERLATITUDE": 24.7851468126823
+    },
+    {
+        "COUNTYNAME": "新竹縣",
+        "TOWNNAME": "湖口鄉",
+        "COUNTYID": "J",
+        "ZIPCODE": 303,
+        "CENTERLONGITUDE": 121.051724189235,
+        "CENTERLATITUDE": 24.8856634127856
+    },
+    {
+        "COUNTYNAME": "新竹縣",
+        "TOWNNAME": "芎林鄉",
+        "COUNTYID": "J",
+        "ZIPCODE": 307,
+        "CENTERLONGITUDE": 121.104639369721,
+        "CENTERLATITUDE": 24.7657115976639
+    },
+    {
+        "COUNTYNAME": "新竹縣",
+        "TOWNNAME": "橫山鄉",
+        "COUNTYID": "J",
+        "ZIPCODE": 312,
+        "CENTERLONGITUDE": 121.146973206254,
+        "CENTERLATITUDE": 24.707809200568
+    },
+    {
+        "COUNTYNAME": "新竹縣",
+        "TOWNNAME": "北埔鄉",
+        "COUNTYID": "J",
+        "ZIPCODE": 314,
+        "CENTERLONGITUDE": 121.064274465753,
+        "CENTERLATITUDE": 24.6720740548747
+    },
+    {
+        "COUNTYNAME": "新竹縣",
+        "TOWNNAME": "寶山鄉",
+        "COUNTYID": "J",
+        "ZIPCODE": 308,
+        "CENTERLONGITUDE": 120.999160492599,
+        "CENTERLATITUDE": 24.7369735135917
+    },
+    {
+        "COUNTYNAME": "新竹縣",
+        "TOWNNAME": "尖石鄉",
+        "COUNTYID": "J",
+        "ZIPCODE": 313,
+        "CENTERLONGITUDE": 121.281934125331,
+        "CENTERLATITUDE": 24.5949323497203
+    },
+    {
+        "COUNTYNAME": "新竹縣",
+        "TOWNNAME": "五峰鄉",
+        "COUNTYID": "J",
+        "ZIPCODE": 311,
+        "CENTERLONGITUDE": 121.138949471172,
+        "CENTERLATITUDE": 24.5780540035423
+    },
+    {
+        "COUNTYNAME": "苗栗縣",
+        "TOWNNAME": "苗栗市",
+        "COUNTYID": "K",
+        "ZIPCODE": 360,
+        "CENTERLONGITUDE": 120.811229945966,
+        "CENTERLATITUDE": 24.5638214096281
+    },
+    {
+        "COUNTYNAME": "苗栗縣",
+        "TOWNNAME": "卓蘭鎮",
+        "COUNTYID": "K",
+        "ZIPCODE": 369,
+        "CENTERLONGITUDE": 120.856196561615,
+        "CENTERLATITUDE": 24.3251016732567
+    },
+    {
+        "COUNTYNAME": "苗栗縣",
+        "TOWNNAME": "大湖鄉",
+        "COUNTYID": "K",
+        "ZIPCODE": 364,
+        "CENTERLONGITUDE": 120.863119246148,
+        "CENTERLATITUDE": 24.3935964062514
+    },
+    {
+        "COUNTYNAME": "苗栗縣",
+        "TOWNNAME": "公館鄉",
+        "COUNTYID": "K",
+        "ZIPCODE": 363,
+        "CENTERLONGITUDE": 120.850590401167,
+        "CENTERLATITUDE": 24.5024968580135
+    },
+    {
+        "COUNTYNAME": "苗栗縣",
+        "TOWNNAME": "銅鑼鄉",
+        "COUNTYID": "K",
+        "ZIPCODE": 366,
+        "CENTERLONGITUDE": 120.799204284953,
+        "CENTERLATITUDE": 24.4559183249445
+    },
+    {
+        "COUNTYNAME": "苗栗縣",
+        "TOWNNAME": "頭屋鄉",
+        "COUNTYID": "K",
+        "ZIPCODE": 362,
+        "CENTERLONGITUDE": 120.882663130693,
+        "CENTERLATITUDE": 24.573454971167
+    },
+    {
+        "COUNTYNAME": "苗栗縣",
+        "TOWNNAME": "三義鄉",
+        "COUNTYID": "K",
+        "ZIPCODE": 367,
+        "CENTERLONGITUDE": 120.770192912665,
+        "CENTERLATITUDE": 24.3808165943606
+    },
+    {
+        "COUNTYNAME": "苗栗縣",
+        "TOWNNAME": "西湖鄉",
+        "COUNTYID": "K",
+        "ZIPCODE": 368,
+        "CENTERLONGITUDE": 120.761414373282,
+        "CENTERLATITUDE": 24.5415321750682
+    },
+    {
+        "COUNTYNAME": "苗栗縣",
+        "TOWNNAME": "造橋鄉",
+        "COUNTYID": "K",
+        "ZIPCODE": 361,
+        "CENTERLONGITUDE": 120.869566263697,
+        "CENTERLATITUDE": 24.6248131374
+    },
+    {
+        "COUNTYNAME": "苗栗縣",
+        "TOWNNAME": "獅潭鄉",
+        "COUNTYID": "K",
+        "ZIPCODE": 354,
+        "CENTERLONGITUDE": 120.920668780923,
+        "CENTERLATITUDE": 24.5197861413227
+    },
+    {
+        "COUNTYNAME": "苗栗縣",
+        "TOWNNAME": "泰安鄉",
+        "COUNTYID": "K",
+        "ZIPCODE": 365,
+        "CENTERLONGITUDE": 121.068157108615,
+        "CENTERLATITUDE": 24.4192581913066
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "彰化市",
+        "COUNTYID": "N",
+        "ZIPCODE": 500,
+        "CENTERLONGITUDE": 120.569420766195,
+        "CENTERLATITUDE": 24.0753290944792
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "和美鎮",
+        "COUNTYID": "N",
+        "ZIPCODE": 508,
+        "CENTERLONGITUDE": 120.511204456277,
+        "CENTERLATITUDE": 24.113795345196
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "線西鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 507,
+        "CENTERLONGITUDE": 120.452156967481,
+        "CENTERLATITUDE": 24.1315812720064
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "伸港鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 509,
+        "CENTERLONGITUDE": 120.486449029136,
+        "CENTERLATITUDE": 24.1636710714172
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "秀水鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 504,
+        "CENTERLONGITUDE": 120.504118410652,
+        "CENTERLATITUDE": 24.0324940515618
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "花壇鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 503,
+        "CENTERLONGITUDE": 120.55976548207,
+        "CENTERLATITUDE": 24.0300687486711
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "芬園鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 502,
+        "CENTERLONGITUDE": 120.629441417597,
+        "CENTERLATITUDE": 24.0062879390655
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "溪湖鎮",
+        "COUNTYID": "N",
+        "ZIPCODE": 514,
+        "CENTERLONGITUDE": 120.483173852792,
+        "CENTERLATITUDE": 23.9517145556487
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "東石鄉",
+        "COUNTYID": "Q",
+        "ZIPCODE": 614,
+        "CENTERLONGITUDE": 120.173868156004,
+        "CENTERLATITUDE": 23.4686605856037
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "大村鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 515,
+        "CENTERLONGITUDE": 120.558686614474,
+        "CENTERLATITUDE": 23.9920920598419
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "埔鹽鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 516,
+        "CENTERLONGITUDE": 120.459462625743,
+        "CENTERLATITUDE": 23.9920441661471
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "埔心鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 513,
+        "CENTERLONGITUDE": 120.534280216121,
+        "CENTERLATITUDE": 23.952775207235
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "永靖鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 512,
+        "CENTERLONGITUDE": 120.541603236394,
+        "CENTERLATITUDE": 23.921395065095
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "二水鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 530,
+        "CENTERLONGITUDE": 120.628588970137,
+        "CENTERLATITUDE": 23.8092401970986
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "北斗鎮",
+        "COUNTYID": "N",
+        "ZIPCODE": 521,
+        "CENTERLONGITUDE": 120.533156647492,
+        "CENTERLATITUDE": 23.8675739950271
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "二林鎮",
+        "COUNTYID": "N",
+        "ZIPCODE": 526,
+        "CENTERLONGITUDE": 120.404224950777,
+        "CENTERLATITUDE": 23.9162140539415
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "田尾鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 522,
+        "CENTERLONGITUDE": 120.522324422793,
+        "CENTERLATITUDE": 23.9005606450856
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "埤頭鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 523,
+        "CENTERLONGITUDE": 120.467564167138,
+        "CENTERLATITUDE": 23.8823411789547
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "芳苑鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 528,
+        "CENTERLONGITUDE": 120.353922574307,
+        "CENTERLATITUDE": 23.9537906045352
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "大城鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 527,
+        "CENTERLONGITUDE": 120.311328415613,
+        "CENTERLATITUDE": 23.8506927614317
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "竹塘鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 525,
+        "CENTERLONGITUDE": 120.413664471931,
+        "CENTERLATITUDE": 23.8505872029391
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "溪州鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 524,
+        "CENTERLONGITUDE": 120.522490423378,
+        "CENTERLATITUDE": 23.8272518484685
+    },
+    {
+        "COUNTYNAME": "南投縣",
+        "TOWNNAME": "南投市",
+        "COUNTYID": "M",
+        "ZIPCODE": 540,
+        "CENTERLONGITUDE": 120.67876576366,
+        "CENTERLATITUDE": 23.9217353681577
+    },
+    {
+        "COUNTYNAME": "南投縣",
+        "TOWNNAME": "埔里鎮",
+        "COUNTYID": "M",
+        "ZIPCODE": 545,
+        "CENTERLONGITUDE": 120.962525868408,
+        "CENTERLATITUDE": 23.9789259092724
+    },
+    {
+        "COUNTYNAME": "南投縣",
+        "TOWNNAME": "草屯鎮",
+        "COUNTYID": "M",
+        "ZIPCODE": 542,
+        "CENTERLONGITUDE": 120.73261821183,
+        "CENTERLATITUDE": 23.983210813786
+    },
+    {
+        "COUNTYNAME": "南投縣",
+        "TOWNNAME": "竹山鎮",
+        "COUNTYID": "M",
+        "ZIPCODE": 557,
+        "CENTERLONGITUDE": 120.710079654907,
+        "CENTERLATITUDE": 23.6980551826549
+    },
+    {
+        "COUNTYNAME": "南投縣",
+        "TOWNNAME": "集集鎮",
+        "COUNTYID": "M",
+        "ZIPCODE": 552,
+        "CENTERLONGITUDE": 120.785419156725,
+        "CENTERLATITUDE": 23.8370168692079
+    },
+    {
+        "COUNTYNAME": "南投縣",
+        "TOWNNAME": "名間鄉",
+        "COUNTYID": "M",
+        "ZIPCODE": 551,
+        "CENTERLONGITUDE": 120.677440234579,
+        "CENTERLATITUDE": 23.8510770978318
+    },
+    {
+        "COUNTYNAME": "南投縣",
+        "TOWNNAME": "鹿谷鄉",
+        "COUNTYID": "M",
+        "ZIPCODE": 558,
+        "CENTERLONGITUDE": 120.781506517377,
+        "CENTERLATITUDE": 23.7377602852249
+    },
+    {
+        "COUNTYNAME": "南投縣",
+        "TOWNNAME": "中寮鄉",
+        "COUNTYID": "M",
+        "ZIPCODE": 541,
+        "CENTERLONGITUDE": 120.78591587985,
+        "CENTERLATITUDE": 23.9058921406606
+    },
+    {
+        "COUNTYNAME": "南投縣",
+        "TOWNNAME": "魚池鄉",
+        "COUNTYID": "M",
+        "ZIPCODE": 555,
+        "CENTERLONGITUDE": 120.925673579295,
+        "CENTERLATITUDE": 23.8760121252657
+    },
+    {
+        "COUNTYNAME": "南投縣",
+        "TOWNNAME": "國姓鄉",
+        "COUNTYID": "M",
+        "ZIPCODE": 544,
+        "CENTERLONGITUDE": 120.86760521641,
+        "CENTERLATITUDE": 24.0313541253917
+    },
+    {
+        "COUNTYNAME": "南投縣",
+        "TOWNNAME": "水里鄉",
+        "COUNTYID": "M",
+        "ZIPCODE": 553,
+        "CENTERLONGITUDE": 120.862272140518,
+        "CENTERLATITUDE": 23.7961290718765
+    },
+    {
+        "COUNTYNAME": "南投縣",
+        "TOWNNAME": "信義鄉",
+        "COUNTYID": "M",
+        "ZIPCODE": 556,
+        "CENTERLONGITUDE": 121.02128672117,
+        "CENTERLATITUDE": 23.6554647049546
+    },
+    {
+        "COUNTYNAME": "南投縣",
+        "TOWNNAME": "仁愛鄉",
+        "COUNTYID": "M",
+        "ZIPCODE": 546,
+        "CENTERLONGITUDE": 121.14438785385,
+        "CENTERLATITUDE": 24.0288651252177
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "斗六市",
+        "COUNTYID": "P",
+        "ZIPCODE": 640,
+        "CENTERLONGITUDE": 120.560004419108,
+        "CENTERLATITUDE": 23.7065188310031
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "斗南鎮",
+        "COUNTYID": "P",
+        "ZIPCODE": 630,
+        "CENTERLONGITUDE": 120.482635621029,
+        "CENTERLATITUDE": 23.6706639290201
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "虎尾鎮",
+        "COUNTYID": "P",
+        "ZIPCODE": 632,
+        "CENTERLONGITUDE": 120.429306057465,
+        "CENTERLATITUDE": 23.7166154456763
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "西螺鎮",
+        "COUNTYID": "P",
+        "ZIPCODE": 648,
+        "CENTERLONGITUDE": 120.458079459578,
+        "CENTERLATITUDE": 23.7794210921125
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "土庫鎮",
+        "COUNTYID": "P",
+        "ZIPCODE": 633,
+        "CENTERLONGITUDE": 120.364725191743,
+        "CENTERLATITUDE": 23.6911066459257
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "北港鎮",
+        "COUNTYID": "P",
+        "ZIPCODE": 651,
+        "CENTERLONGITUDE": 120.294016407618,
+        "CENTERLATITUDE": 23.5921952772642
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "古坑鄉",
+        "COUNTYID": "P",
+        "ZIPCODE": 646,
+        "CENTERLONGITUDE": 120.611735115935,
+        "CENTERLATITUDE": 23.6254546924369
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "大埤鄉",
+        "COUNTYID": "P",
+        "ZIPCODE": 631,
+        "CENTERLONGITUDE": 120.425559187049,
+        "CENTERLATITUDE": 23.645597099931
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "莿桐鄉",
+        "COUNTYID": "P",
+        "ZIPCODE": 647,
+        "CENTERLONGITUDE": 120.529041925221,
+        "CENTERLATITUDE": 23.7697389436275
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "林內鄉",
+        "COUNTYID": "P",
+        "ZIPCODE": 643,
+        "CENTERLONGITUDE": 120.615501765773,
+        "CENTERLATITUDE": 23.7557208980058
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "二崙鄉",
+        "COUNTYID": "P",
+        "ZIPCODE": 649,
+        "CENTERLONGITUDE": 120.396459833782,
+        "CENTERLATITUDE": 23.7925520993191
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "崙背鄉",
+        "COUNTYID": "P",
+        "ZIPCODE": 637,
+        "CENTERLONGITUDE": 120.333976862616,
+        "CENTERLATITUDE": 23.7784979069954
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "東勢鄉",
+        "COUNTYID": "P",
+        "ZIPCODE": 635,
+        "CENTERLONGITUDE": 120.256417300515,
+        "CENTERLATITUDE": 23.696123235018
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "褒忠鄉",
+        "COUNTYID": "P",
+        "ZIPCODE": 634,
+        "CENTERLONGITUDE": 120.311612196671,
+        "CENTERLATITUDE": 23.7161320363789
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "元長鄉",
+        "COUNTYID": "P",
+        "ZIPCODE": 655,
+        "CENTERLONGITUDE": 120.327961711378,
+        "CENTERLATITUDE": 23.642430952908
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "水林鄉",
+        "COUNTYID": "P",
+        "ZIPCODE": 652,
+        "CENTERLONGITUDE": 120.235273439821,
+        "CENTERLATITUDE": 23.5616284883609
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "朴子市",
+        "COUNTYID": "Q",
+        "ZIPCODE": 613,
+        "CENTERLONGITUDE": 120.253897688325,
+        "CENTERLATITUDE": 23.4461060514393
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "大林鎮",
+        "COUNTYID": "Q",
+        "ZIPCODE": 622,
+        "CENTERLONGITUDE": 120.480786485607,
+        "CENTERLATITUDE": 23.5989082682624
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "民雄鄉",
+        "COUNTYID": "Q",
+        "ZIPCODE": 621,
+        "CENTERLONGITUDE": 120.444279772169,
+        "CENTERLATITUDE": 23.5425534743946
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "溪口鄉",
+        "COUNTYID": "Q",
+        "ZIPCODE": 623,
+        "CENTERLONGITUDE": 120.401028180307,
+        "CENTERLATITUDE": 23.5935308916869
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "新港鄉",
+        "COUNTYID": "Q",
+        "ZIPCODE": 616,
+        "CENTERLONGITUDE": 120.348287276565,
+        "CENTERLATITUDE": 23.545812952426
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "六腳鄉",
+        "COUNTYID": "Q",
+        "ZIPCODE": 615,
+        "CENTERLONGITUDE": 120.271472773863,
+        "CENTERLATITUDE": 23.5102098404333
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "義竹鄉",
+        "COUNTYID": "Q",
+        "ZIPCODE": 624,
+        "CENTERLONGITUDE": 120.223943326997,
+        "CENTERLATITUDE": 23.3457587153838
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "鹿草鄉",
+        "COUNTYID": "Q",
+        "ZIPCODE": 611,
+        "CENTERLONGITUDE": 120.304546824245,
+        "CENTERLATITUDE": 23.4081173628163
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "竹崎鄉",
+        "COUNTYID": "Q",
+        "ZIPCODE": 604,
+        "CENTERLONGITUDE": 120.596577113276,
+        "CENTERLATITUDE": 23.5037652669329
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "梅山鄉",
+        "COUNTYID": "Q",
+        "ZIPCODE": 603,
+        "CENTERLONGITUDE": 120.638745882452,
+        "CENTERLATITUDE": 23.5553546530787
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "大埔鄉",
+        "COUNTYID": "Q",
+        "ZIPCODE": 607,
+        "CENTERLONGITUDE": 120.589646615371,
+        "CENTERLATITUDE": 23.2884842647336
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "阿里山鄉",
+        "COUNTYID": "Q",
+        "ZIPCODE": 605,
+        "CENTERLONGITUDE": 120.759617274033,
+        "CENTERLATITUDE": 23.4407761879842
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "屏東市",
+        "COUNTYID": "T",
+        "ZIPCODE": 900,
+        "CENTERLONGITUDE": 120.479994764564,
+        "CENTERLATITUDE": 22.6647375034444
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "潮州鎮",
+        "COUNTYID": "T",
+        "ZIPCODE": 920,
+        "CENTERLONGITUDE": 120.556806291446,
+        "CENTERLATITUDE": 22.5364294668361
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "長治鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 908,
+        "CENTERLONGITUDE": 120.555978962203,
+        "CENTERLATITUDE": 22.6945495233278
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "麟洛鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 909,
+        "CENTERLONGITUDE": 120.529969258233,
+        "CENTERLATITUDE": 22.6487636691805
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "九如鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 904,
+        "CENTERLONGITUDE": 120.484504377321,
+        "CENTERLATITUDE": 22.7316676992585
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "里港鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 905,
+        "CENTERLONGITUDE": 120.506127627519,
+        "CENTERLATITUDE": 22.7985483087681
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "鹽埔鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 907,
+        "CENTERLONGITUDE": 120.569394116461,
+        "CENTERLATITUDE": 22.742536362597
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "高樹鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 906,
+        "CENTERLONGITUDE": 120.601767764675,
+        "CENTERLATITUDE": 22.8099202203347
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "萬巒鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 923,
+        "CENTERLONGITUDE": 120.60181697562,
+        "CENTERLATITUDE": 22.5823345932963
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "內埔鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 912,
+        "CENTERLONGITUDE": 120.588822173895,
+        "CENTERLATITUDE": 22.6511693345246
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "新埤鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 925,
+        "CENTERLONGITUDE": 120.584625715071,
+        "CENTERLATITUDE": 22.4867627902348
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "崁頂鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 924,
+        "CENTERLONGITUDE": 120.500659796115,
+        "CENTERLATITUDE": 22.5152815070771
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "南州鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 926,
+        "CENTERLONGITUDE": 120.518056053419,
+        "CENTERLATITUDE": 22.4798070437891
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "琉球鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 929,
+        "CENTERLONGITUDE": 120.371046646422,
+        "CENTERLATITUDE": 22.3400027796402
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "三地門鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 901,
+        "CENTERLONGITUDE": 120.686521892411,
+        "CENTERLATITUDE": 22.7978684726758
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "霧台鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 902,
+        "CENTERLONGITUDE": 120.800809902664,
+        "CENTERLATITUDE": 22.7599047802993
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "瑪家鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 903,
+        "CENTERLONGITUDE": 120.679923854647,
+        "CENTERLATITUDE": 22.6710776446925
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "泰武鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 921,
+        "CENTERLONGITUDE": 120.691792921859,
+        "CENTERLATITUDE": 22.6040847696481
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "來義鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 922,
+        "CENTERLONGITUDE": 120.68572319785,
+        "CENTERLATITUDE": 22.501572058845
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "春日鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 942,
+        "CENTERLONGITUDE": 120.697579915321,
+        "CENTERLATITUDE": 22.4039975412871
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "獅子鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 943,
+        "CENTERLONGITUDE": 120.735645413718,
+        "CENTERLATITUDE": 22.2608492101756
+    },
+    {
+        "COUNTYNAME": "台東縣",
+        "TOWNNAME": "關山鎮",
+        "COUNTYID": "V",
+        "ZIPCODE": 956,
+        "CENTERLONGITUDE": 121.176619731011,
+        "CENTERLATITUDE": 23.037806841788
+    },
+    {
+        "COUNTYNAME": "台東縣",
+        "TOWNNAME": "鹿野鄉",
+        "COUNTYID": "V",
+        "ZIPCODE": 955,
+        "CENTERLONGITUDE": 121.156037555936,
+        "CENTERLATITUDE": 22.9512566567191
+    },
+    {
+        "COUNTYNAME": "台東縣",
+        "TOWNNAME": "池上鄉",
+        "COUNTYID": "V",
+        "ZIPCODE": 958,
+        "CENTERLONGITUDE": 121.218450133956,
+        "CENTERLATITUDE": 23.0924871392717
+    },
+    {
+        "COUNTYNAME": "台東縣",
+        "TOWNNAME": "海端鄉",
+        "COUNTYID": "V",
+        "ZIPCODE": 957,
+        "CENTERLONGITUDE": 121.017567189434,
+        "CENTERLATITUDE": 23.114785283898
+    },
+    {
+        "COUNTYNAME": "台東縣",
+        "TOWNNAME": "延平鄉",
+        "COUNTYID": "V",
+        "ZIPCODE": 953,
+        "CENTERLONGITUDE": 120.983190198409,
+        "CENTERLATITUDE": 22.9034317363919
+    },
+    {
+        "COUNTYNAME": "花蓮縣",
+        "TOWNNAME": "鳳林鎮",
+        "COUNTYID": "U",
+        "ZIPCODE": 975,
+        "CENTERLONGITUDE": 121.469884821481,
+        "CENTERLATITUDE": 23.7432446161041
+    },
+    {
+        "COUNTYNAME": "花蓮縣",
+        "TOWNNAME": "玉里鎮",
+        "COUNTYID": "U",
+        "ZIPCODE": 981,
+        "CENTERLONGITUDE": 121.360447619116,
+        "CENTERLATITUDE": 23.3714358805698
+    },
+    {
+        "COUNTYNAME": "花蓮縣",
+        "TOWNNAME": "光復鄉",
+        "COUNTYID": "U",
+        "ZIPCODE": 976,
+        "CENTERLONGITUDE": 121.435123102437,
+        "CENTERLATITUDE": 23.6465874248504
+    },
+    {
+        "COUNTYNAME": "花蓮縣",
+        "TOWNNAME": "瑞穗鄉",
+        "COUNTYID": "U",
+        "ZIPCODE": 978,
+        "CENTERLONGITUDE": 121.407347174264,
+        "CENTERLATITUDE": 23.5156124032443
+    },
+    {
+        "COUNTYNAME": "花蓮縣",
+        "TOWNNAME": "富里鄉",
+        "COUNTYID": "U",
+        "ZIPCODE": 983,
+        "CENTERLONGITUDE": 121.298049435164,
+        "CENTERLATITUDE": 23.1967209199893
+    },
+    {
+        "COUNTYNAME": "花蓮縣",
+        "TOWNNAME": "萬榮鄉",
+        "COUNTYID": "U",
+        "ZIPCODE": 979,
+        "CENTERLONGITUDE": 121.318953140765,
+        "CENTERLATITUDE": 23.7277262858466
+    },
+    {
+        "COUNTYNAME": "花蓮縣",
+        "TOWNNAME": "卓溪鄉",
+        "COUNTYID": "U",
+        "ZIPCODE": 982,
+        "CENTERLONGITUDE": 121.180422225847,
+        "CENTERLATITUDE": 23.390628749495
+    },
+    {
+        "COUNTYNAME": "澎湖縣",
+        "TOWNNAME": "馬公市",
+        "COUNTYID": "X",
+        "ZIPCODE": 880,
+        "CENTERLONGITUDE": 119.59234,
+        "CENTERLATITUDE": 23.55534
+    },
+    {
+        "COUNTYNAME": "澎湖縣",
+        "TOWNNAME": "湖西鄉",
+        "COUNTYID": "X",
+        "ZIPCODE": 885,
+        "CENTERLONGITUDE": 119.64462,
+        "CENTERLATITUDE": 23.57364
+    },
+    {
+        "COUNTYNAME": "澎湖縣",
+        "TOWNNAME": "白沙鄉",
+        "COUNTYID": "X",
+        "ZIPCODE": 884,
+        "CENTERLONGITUDE": 119.59251,
+        "CENTERLATITUDE": 23.64178
+    },
+    {
+        "COUNTYNAME": "澎湖縣",
+        "TOWNNAME": "西嶼鄉",
+        "COUNTYID": "X",
+        "ZIPCODE": 881,
+        "CENTERLONGITUDE": 119.50783,
+        "CENTERLATITUDE": 23.59975
+    },
+    {
+        "COUNTYNAME": "澎湖縣",
+        "TOWNNAME": "望安鄉",
+        "COUNTYID": "X",
+        "ZIPCODE": 882,
+        "CENTERLONGITUDE": 119.50406,
+        "CENTERLATITUDE": 23.36904
+    },
+    {
+        "COUNTYNAME": "澎湖縣",
+        "TOWNNAME": "七美鄉",
+        "COUNTYID": "X",
+        "ZIPCODE": 883,
+        "CENTERLONGITUDE": 119.43393,
+        "CENTERLATITUDE": 23.20108
+    },
+    {
+        "COUNTYNAME": "基隆市",
+        "TOWNNAME": "七堵區",
+        "COUNTYID": "C",
+        "ZIPCODE": 206,
+        "CENTERLONGITUDE": 121.683628045816,
+        "CENTERLATITUDE": 25.1096202797313
+    },
+    {
+        "COUNTYNAME": "基隆市",
+        "TOWNNAME": "暖暖區",
+        "COUNTYID": "C",
+        "ZIPCODE": 205,
+        "CENTERLONGITUDE": 121.744734395129,
+        "CENTERLATITUDE": 25.080970026859
+    },
+    {
+        "COUNTYNAME": "基隆市",
+        "TOWNNAME": "仁愛區",
+        "COUNTYID": "C",
+        "ZIPCODE": 200,
+        "CENTERLONGITUDE": 121.743420489185,
+        "CENTERLATITUDE": 25.1194542071689
+    },
+    {
+        "COUNTYNAME": "基隆市",
+        "TOWNNAME": "信義區",
+        "COUNTYID": "C",
+        "ZIPCODE": 201,
+        "CENTERLONGITUDE": 121.772646023224,
+        "CENTERLATITUDE": 25.1257657937986
+    },
+    {
+        "COUNTYNAME": "新竹市",
+        "TOWNNAME": "東區",
+        "COUNTYID": "O",
+        "ZIPCODE": 300,
+        "CENTERLONGITUDE": 120.992750477701,
+        "CENTERLATITUDE": 24.7902817358819
+    },
+    {
+        "COUNTYNAME": "台北市",
+        "TOWNNAME": "松山區",
+        "COUNTYID": "A",
+        "ZIPCODE": 105,
+        "CENTERLONGITUDE": 121.557587582092,
+        "CENTERLATITUDE": 25.059991008007
+    },
+    {
+        "COUNTYNAME": "台北市",
+        "TOWNNAME": "信義區",
+        "COUNTYID": "A",
+        "ZIPCODE": 110,
+        "CENTERLONGITUDE": 121.571669734545,
+        "CENTERLATITUDE": 25.0306208286138
+    },
+    {
+        "COUNTYNAME": "台北市",
+        "TOWNNAME": "大安區",
+        "COUNTYID": "A",
+        "ZIPCODE": 106,
+        "CENTERLONGITUDE": 121.543444557916,
+        "CENTERLATITUDE": 25.0267701191431
+    },
+    {
+        "COUNTYNAME": "台北市",
+        "TOWNNAME": "中山區",
+        "COUNTYID": "A",
+        "ZIPCODE": 104,
+        "CENTERLONGITUDE": 121.538159729839,
+        "CENTERLATITUDE": 25.0696991721485
+    },
+    {
+        "COUNTYNAME": "台北市",
+        "TOWNNAME": "中正區",
+        "COUNTYID": "A",
+        "ZIPCODE": 100,
+        "CENTERLONGITUDE": 121.519883944258,
+        "CENTERLATITUDE": 25.0324048718494
+    },
+    {
+        "COUNTYNAME": "台北市",
+        "TOWNNAME": "大同區",
+        "COUNTYID": "A",
+        "ZIPCODE": 103,
+        "CENTERLONGITUDE": 121.513041719576,
+        "CENTERLATITUDE": 25.0634243257872
+    },
+    {
+        "COUNTYNAME": "台北市",
+        "TOWNNAME": "萬華區",
+        "COUNTYID": "A",
+        "ZIPCODE": 108,
+        "CENTERLONGITUDE": 121.497985838523,
+        "CENTERLATITUDE": 25.028589903457
+    },
+    {
+        "COUNTYNAME": "台北市",
+        "TOWNNAME": "文山區",
+        "COUNTYID": "A",
+        "ZIPCODE": 116,
+        "CENTERLONGITUDE": 121.573608239798,
+        "CENTERLATITUDE": 24.9885793372573
+    },
+    {
+        "COUNTYNAME": "台北市",
+        "TOWNNAME": "南港區",
+        "COUNTYID": "A",
+        "ZIPCODE": 115,
+        "CENTERLONGITUDE": 121.609757289042,
+        "CENTERLATITUDE": 25.036009337784
+    },
+    {
+        "COUNTYNAME": "台北市",
+        "TOWNNAME": "內湖區",
+        "COUNTYID": "A",
+        "ZIPCODE": 114,
+        "CENTERLONGITUDE": 121.592382757564,
+        "CENTERLATITUDE": 25.0837062341818
+    },
+    {
+        "COUNTYNAME": "台北市",
+        "TOWNNAME": "士林區",
+        "COUNTYID": "A",
+        "ZIPCODE": 111,
+        "CENTERLONGITUDE": 121.550847282213,
+        "CENTERLATITUDE": 25.125467041916
+    },
+    {
+        "COUNTYNAME": "台北市",
+        "TOWNNAME": "北投區",
+        "COUNTYID": "A",
+        "ZIPCODE": 112,
+        "CENTERLONGITUDE": 121.517799209511,
+        "CENTERLATITUDE": 25.1480681955048
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "鹽埕區",
+        "COUNTYID": "E",
+        "ZIPCODE": 803,
+        "CENTERLONGITUDE": 120.284233076636,
+        "CENTERLATITUDE": 22.6242458503703
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "三民區",
+        "COUNTYID": "E",
+        "ZIPCODE": 807,
+        "CENTERLONGITUDE": 120.317918682698,
+        "CENTERLATITUDE": 22.6498988317354
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "新興區",
+        "COUNTYID": "E",
+        "ZIPCODE": 800,
+        "CENTERLONGITUDE": 120.306733670173,
+        "CENTERLATITUDE": 22.6299290634406
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "前金區",
+        "COUNTYID": "E",
+        "ZIPCODE": 801,
+        "CENTERLONGITUDE": 120.294421686211,
+        "CENTERLATITUDE": 22.6269905044763
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "苓雅區",
+        "COUNTYID": "E",
+        "ZIPCODE": 802,
+        "CENTERLONGITUDE": 120.320910300571,
+        "CENTERLATITUDE": 22.6235944826374
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "前鎮區",
+        "COUNTYID": "E",
+        "ZIPCODE": 806,
+        "CENTERLONGITUDE": 120.314674922638,
+        "CENTERLATITUDE": 22.5926972384226
+    },
+    {
+        "COUNTYNAME": "台東縣",
+        "TOWNNAME": "金峰鄉",
+        "COUNTYID": "V",
+        "ZIPCODE": 964,
+        "CENTERLONGITUDE": 120.857038374302,
+        "CENTERLATITUDE": 22.5816168703848
+    },
+    {
+        "COUNTYNAME": "宜蘭縣",
+        "TOWNNAME": "蘇澳鎮",
+        "COUNTYID": "G",
+        "ZIPCODE": 270,
+        "CENTERLONGITUDE": 121.834689164789,
+        "CENTERLATITUDE": 24.5546705809891
+    },
+    {
+        "COUNTYNAME": "宜蘭縣",
+        "TOWNNAME": "頭城鎮",
+        "COUNTYID": "G",
+        "ZIPCODE": 261,
+        "CENTERLONGITUDE": 121.845796985231,
+        "CENTERLATITUDE": 24.900758816467
+    },
+    {
+        "COUNTYNAME": "宜蘭縣",
+        "TOWNNAME": "壯圍鄉",
+        "COUNTYID": "G",
+        "ZIPCODE": 263,
+        "CENTERLONGITUDE": 121.80176215182,
+        "CENTERLATITUDE": 24.7518304191833
+    },
+    {
+        "COUNTYNAME": "宜蘭縣",
+        "TOWNNAME": "五結鄉",
+        "COUNTYID": "G",
+        "ZIPCODE": 268,
+        "CENTERLONGITUDE": 121.805834231939,
+        "CENTERLATITUDE": 24.6888734321393
+    },
+    {
+        "COUNTYNAME": "宜蘭縣",
+        "TOWNNAME": "南澳鄉",
+        "COUNTYID": "G",
+        "ZIPCODE": 272,
+        "CENTERLONGITUDE": 121.656059270947,
+        "CENTERLATITUDE": 24.4486405806262
+    },
+    {
+        "COUNTYNAME": "新竹縣",
+        "TOWNNAME": "竹北市",
+        "COUNTYID": "J",
+        "ZIPCODE": 302,
+        "CENTERLONGITUDE": 120.994870383266,
+        "CENTERLATITUDE": 24.8381620909547
+    },
+    {
+        "COUNTYNAME": "新竹縣",
+        "TOWNNAME": "新豐鄉",
+        "COUNTYID": "J",
+        "ZIPCODE": 304,
+        "CENTERLONGITUDE": 120.995603311605,
+        "CENTERLATITUDE": 24.9073129792531
+    },
+    {
+        "COUNTYNAME": "苗栗縣",
+        "TOWNNAME": "苑裡鎮",
+        "COUNTYID": "K",
+        "ZIPCODE": 358,
+        "CENTERLONGITUDE": 120.688219477607,
+        "CENTERLATITUDE": 24.4110232010421
+    },
+    {
+        "COUNTYNAME": "苗栗縣",
+        "TOWNNAME": "通霄鎮",
+        "COUNTYID": "K",
+        "ZIPCODE": 357,
+        "CENTERLONGITUDE": 120.714637806385,
+        "CENTERLATITUDE": 24.4850464016003
+    },
+    {
+        "COUNTYNAME": "苗栗縣",
+        "TOWNNAME": "竹南鎮",
+        "COUNTYID": "K",
+        "ZIPCODE": 350,
+        "CENTERLONGITUDE": 120.877731617015,
+        "CENTERLATITUDE": 24.6986245914272
+    },
+    {
+        "COUNTYNAME": "苗栗縣",
+        "TOWNNAME": "後龍鎮",
+        "COUNTYID": "K",
+        "ZIPCODE": 356,
+        "CENTERLONGITUDE": 120.781204959433,
+        "CENTERLATITUDE": 24.615626497368
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "鹿港鎮",
+        "COUNTYID": "N",
+        "ZIPCODE": 505,
+        "CENTERLONGITUDE": 120.438549145638,
+        "CENTERLATITUDE": 24.0828668530306
+    },
+    {
+        "COUNTYNAME": "彰化縣",
+        "TOWNNAME": "福興鄉",
+        "COUNTYID": "N",
+        "ZIPCODE": 506,
+        "CENTERLONGITUDE": 120.431051125928,
+        "CENTERLATITUDE": 24.0302167372647
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "台西鄉",
+        "COUNTYID": "P",
+        "ZIPCODE": 636,
+        "CENTERLONGITUDE": 120.205495170333,
+        "CENTERLATITUDE": 23.7160081472386
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "四湖鄉",
+        "COUNTYID": "P",
+        "ZIPCODE": 654,
+        "CENTERLONGITUDE": 120.206469855826,
+        "CENTERLATITUDE": 23.6420687510709
+    },
+    {
+        "COUNTYNAME": "雲林縣",
+        "TOWNNAME": "口湖鄉",
+        "COUNTYID": "P",
+        "ZIPCODE": 653,
+        "CENTERLONGITUDE": 120.141371081829,
+        "CENTERLATITUDE": 23.5536539524878
+    },
+    {
+        "COUNTYNAME": "嘉義縣",
+        "TOWNNAME": "布袋鎮",
+        "COUNTYID": "Q",
+        "ZIPCODE": 625,
+        "CENTERLONGITUDE": 120.177749836778,
+        "CENTERLATITUDE": 23.3749427619174
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "東港鎮",
+        "COUNTYID": "T",
+        "ZIPCODE": 928,
+        "CENTERLONGITUDE": 120.475133319451,
+        "CENTERLATITUDE": 22.4626563483082
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "恆春鎮",
+        "COUNTYID": "T",
+        "ZIPCODE": 946,
+        "CENTERLONGITUDE": 120.763253739704,
+        "CENTERLATITUDE": 21.985316449336
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "枋寮鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 940,
+        "CENTERLONGITUDE": 120.597584490558,
+        "CENTERLATITUDE": 22.4033419898697
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "新園鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 932,
+        "CENTERLONGITUDE": 120.45014290312,
+        "CENTERLATITUDE": 22.5171903028888
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "林邊鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 927,
+        "CENTERLONGITUDE": 120.512509529876,
+        "CENTERLATITUDE": 22.4414210084398
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "車城鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 944,
+        "CENTERLONGITUDE": 120.743263325356,
+        "CENTERLATITUDE": 22.0791561668301
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "滿州鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 947,
+        "CENTERLONGITUDE": 120.843567544037,
+        "CENTERLATITUDE": 22.0493001515237
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "枋山鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 941,
+        "CENTERLONGITUDE": 120.656767254293,
+        "CENTERLATITUDE": 22.2708696227031
+    },
+    {
+        "COUNTYNAME": "屏東縣",
+        "TOWNNAME": "牡丹鄉",
+        "COUNTYID": "T",
+        "ZIPCODE": 945,
+        "CENTERLONGITUDE": 120.81736091095,
+        "CENTERLATITUDE": 22.1555285928887
+    },
+    {
+        "COUNTYNAME": "台東縣",
+        "TOWNNAME": "台東市",
+        "COUNTYID": "V",
+        "ZIPCODE": 950,
+        "CENTERLONGITUDE": 121.110364702106,
+        "CENTERLATITUDE": 22.7516572069028
+    },
+    {
+        "COUNTYNAME": "台東縣",
+        "TOWNNAME": "卑南鄉",
+        "COUNTYID": "V",
+        "ZIPCODE": 954,
+        "CENTERLONGITUDE": 121.001552093901,
+        "CENTERLATITUDE": 22.7649445331996
+    },
+    {
+        "COUNTYNAME": "台東縣",
+        "TOWNNAME": "東河鄉",
+        "COUNTYID": "V",
+        "ZIPCODE": 959,
+        "CENTERLONGITUDE": 121.25179171048,
+        "CENTERLATITUDE": 22.9800692079403
+    },
+    {
+        "COUNTYNAME": "台東縣",
+        "TOWNNAME": "長濱鄉",
+        "COUNTYID": "V",
+        "ZIPCODE": 962,
+        "CENTERLONGITUDE": 121.426172507191,
+        "CENTERLATITUDE": 23.3347689869382
+    },
+    {
+        "COUNTYNAME": "台東縣",
+        "TOWNNAME": "太麻里鄉",
+        "COUNTYID": "V",
+        "ZIPCODE": 963,
+        "CENTERLONGITUDE": 120.979764285595,
+        "CENTERLATITUDE": 22.5909808236961
+    },
+    {
+        "COUNTYNAME": "台東縣",
+        "TOWNNAME": "大武鄉",
+        "COUNTYID": "V",
+        "ZIPCODE": 965,
+        "CENTERLONGITUDE": 120.899170294226,
+        "CENTERLATITUDE": 22.3835952164311
+    },
+    {
+        "COUNTYNAME": "台東縣",
+        "TOWNNAME": "達仁鄉",
+        "COUNTYID": "V",
+        "ZIPCODE": 966,
+        "CENTERLONGITUDE": 120.83552390532,
+        "CENTERLATITUDE": 22.3843071844003
+    },
+    {
+        "COUNTYNAME": "花蓮縣",
+        "TOWNNAME": "花蓮市",
+        "COUNTYID": "U",
+        "ZIPCODE": 970,
+        "CENTERLONGITUDE": 121.60714629181,
+        "CENTERLATITUDE": 23.9970027129226
+    },
+    {
+        "COUNTYNAME": "花蓮縣",
+        "TOWNNAME": "新城鄉",
+        "COUNTYID": "U",
+        "ZIPCODE": 971,
+        "CENTERLONGITUDE": 121.613796859261,
+        "CENTERLATITUDE": 24.0557995168346
+    },
+    {
+        "COUNTYNAME": "花蓮縣",
+        "TOWNNAME": "吉安鄉",
+        "COUNTYID": "U",
+        "ZIPCODE": 973,
+        "CENTERLONGITUDE": 121.564673782822,
+        "CENTERLATITUDE": 23.9554658506306
+    },
+    {
+        "COUNTYNAME": "花蓮縣",
+        "TOWNNAME": "壽豐鄉",
+        "COUNTYID": "U",
+        "ZIPCODE": 974,
+        "CENTERLONGITUDE": 121.534156936626,
+        "CENTERLATITUDE": 23.8445971434232
+    },
+    {
+        "COUNTYNAME": "花蓮縣",
+        "TOWNNAME": "豐濱鄉",
+        "COUNTYID": "U",
+        "ZIPCODE": 977,
+        "CENTERLONGITUDE": 121.494233109565,
+        "CENTERLATITUDE": 23.5851942829731
+    },
+    {
+        "COUNTYNAME": "花蓮縣",
+        "TOWNNAME": "秀林鄉",
+        "COUNTYID": "U",
+        "ZIPCODE": 972,
+        "CENTERLONGITUDE": 121.480719358621,
+        "CENTERLATITUDE": 24.1237441416909
+    },
+    {
+        "COUNTYNAME": "基隆市",
+        "TOWNNAME": "中正區",
+        "COUNTYID": "C",
+        "ZIPCODE": 202,
+        "CENTERLONGITUDE": 121.778354947183,
+        "CENTERLATITUDE": 25.143657542779
+    },
+    {
+        "COUNTYNAME": "基隆市",
+        "TOWNNAME": "中山區",
+        "COUNTYID": "C",
+        "ZIPCODE": 203,
+        "CENTERLONGITUDE": 121.730891300462,
+        "CENTERLATITUDE": 25.149863648885
+    },
+    {
+        "COUNTYNAME": "基隆市",
+        "TOWNNAME": "安樂區",
+        "COUNTYID": "C",
+        "ZIPCODE": 204,
+        "CENTERLONGITUDE": 121.7078324693,
+        "CENTERLATITUDE": 25.1413952114178
+    },
+    {
+        "COUNTYNAME": "新竹市",
+        "TOWNNAME": "北區",
+        "COUNTYID": "O",
+        "ZIPCODE": 300,
+        "CENTERLONGITUDE": 120.949123325272,
+        "CENTERLATITUDE": 24.8226954230724
+    },
+    {
+        "COUNTYNAME": "新竹市",
+        "TOWNNAME": "香山區",
+        "COUNTYID": "O",
+        "ZIPCODE": 300,
+        "CENTERLONGITUDE": 120.923672683008,
+        "CENTERLATITUDE": 24.7710434208799
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "鼓山區",
+        "COUNTYID": "E",
+        "ZIPCODE": 804,
+        "CENTERLONGITUDE": 120.274162964397,
+        "CENTERLATITUDE": 22.6501952477804
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "左營區",
+        "COUNTYID": "E",
+        "ZIPCODE": 813,
+        "CENTERLONGITUDE": 120.295158790014,
+        "CENTERLATITUDE": 22.6839569891481
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "楠梓區",
+        "COUNTYID": "E",
+        "ZIPCODE": 811,
+        "CENTERLONGITUDE": 120.300758000851,
+        "CENTERLATITUDE": 22.7210996083569
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "鳳山區",
+        "COUNTYID": "E",
+        "ZIPCODE": 830,
+        "CENTERLONGITUDE": 120.355435944182,
+        "CENTERLATITUDE": 22.6137925123649
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "大寮區",
+        "COUNTYID": "E",
+        "ZIPCODE": 831,
+        "CENTERLONGITUDE": 120.411146849383,
+        "CENTERLATITUDE": 22.5928357602589
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "大樹區",
+        "COUNTYID": "E",
+        "ZIPCODE": 840,
+        "CENTERLONGITUDE": 120.425406998434,
+        "CENTERLATITUDE": 22.7110036382346
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "大社區",
+        "COUNTYID": "E",
+        "ZIPCODE": 815,
+        "CENTERLONGITUDE": 120.370799449688,
+        "CENTERLATITUDE": 22.7398347919382
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "仁武區",
+        "COUNTYID": "E",
+        "ZIPCODE": 814,
+        "CENTERLONGITUDE": 120.360526476866,
+        "CENTERLATITUDE": 22.7012078217713
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "鳥松區",
+        "COUNTYID": "E",
+        "ZIPCODE": 833,
+        "CENTERLONGITUDE": 120.372778292714,
+        "CENTERLATITUDE": 22.662493019943
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "岡山區",
+        "COUNTYID": "E",
+        "ZIPCODE": 820,
+        "CENTERLONGITUDE": 120.297890577073,
+        "CENTERLATITUDE": 22.8050588606574
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "橋頭區",
+        "COUNTYID": "E",
+        "ZIPCODE": 825,
+        "CENTERLONGITUDE": 120.300653359039,
+        "CENTERLATITUDE": 22.7525239829813
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "燕巢區",
+        "COUNTYID": "E",
+        "ZIPCODE": 824,
+        "CENTERLONGITUDE": 120.370798996283,
+        "CENTERLATITUDE": 22.7876962588808
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "田寮區",
+        "COUNTYID": "E",
+        "ZIPCODE": 823,
+        "CENTERLONGITUDE": 120.395984200793,
+        "CENTERLATITUDE": 22.8639430694713
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "阿蓮區",
+        "COUNTYID": "E",
+        "ZIPCODE": 822,
+        "CENTERLONGITUDE": 120.321096718905,
+        "CENTERLATITUDE": 22.8702288280108
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "路竹區",
+        "COUNTYID": "E",
+        "ZIPCODE": 821,
+        "CENTERLONGITUDE": 120.265987100771,
+        "CENTERLATITUDE": 22.857241706688
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "湖內區",
+        "COUNTYID": "E",
+        "ZIPCODE": 829,
+        "CENTERLONGITUDE": 120.225937466568,
+        "CENTERLATITUDE": 22.893249515363
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "旗山區",
+        "COUNTYID": "E",
+        "ZIPCODE": 842,
+        "CENTERLONGITUDE": 120.475455387331,
+        "CENTERLATITUDE": 22.864970327885
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "美濃區",
+        "COUNTYID": "E",
+        "ZIPCODE": 843,
+        "CENTERLONGITUDE": 120.563463535279,
+        "CENTERLATITUDE": 22.9000552858394
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "六龜區",
+        "COUNTYID": "E",
+        "ZIPCODE": 844,
+        "CENTERLONGITUDE": 120.658563496478,
+        "CENTERLATITUDE": 23.0119542625382
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "甲仙區",
+        "COUNTYID": "E",
+        "ZIPCODE": 847,
+        "CENTERLONGITUDE": 120.623289495951,
+        "CENTERLATITUDE": 23.1165499512901
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "杉林區",
+        "COUNTYID": "E",
+        "ZIPCODE": 846,
+        "CENTERLONGITUDE": 120.562197068239,
+        "CENTERLATITUDE": 22.996946809287
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "內門區",
+        "COUNTYID": "E",
+        "ZIPCODE": 845,
+        "CENTERLONGITUDE": 120.471927200989,
+        "CENTERLATITUDE": 22.9566881728739
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "茂林區",
+        "COUNTYID": "E",
+        "ZIPCODE": 851,
+        "CENTERLONGITUDE": 120.752383965915,
+        "CENTERLATITUDE": 22.9199325648612
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "桃源區",
+        "COUNTYID": "E",
+        "ZIPCODE": 848,
+        "CENTERLONGITUDE": 120.852338279876,
+        "CENTERLATITUDE": 23.2249459030151
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "那瑪夏區",
+        "COUNTYID": "E",
+        "ZIPCODE": 849,
+        "CENTERLONGITUDE": 120.741944,
+        "CENTERLATITUDE": 23.275008
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "板橋區",
+        "COUNTYID": "F",
+        "ZIPCODE": 220,
+        "CENTERLONGITUDE": 121.457967514949,
+        "CENTERLATITUDE": 25.0118645337613
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "三重區",
+        "COUNTYID": "F",
+        "ZIPCODE": 241,
+        "CENTERLONGITUDE": 121.487097740965,
+        "CENTERLATITUDE": 25.0628165133006
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "中和區",
+        "COUNTYID": "F",
+        "ZIPCODE": 235,
+        "CENTERLONGITUDE": 121.493674375458,
+        "CENTERLATITUDE": 24.9908803864723
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "永和區",
+        "COUNTYID": "F",
+        "ZIPCODE": 234,
+        "CENTERLONGITUDE": 121.516744959728,
+        "CENTERLATITUDE": 25.0081019942885
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "新莊區",
+        "COUNTYID": "F",
+        "ZIPCODE": 242,
+        "CENTERLONGITUDE": 121.436753474611,
+        "CENTERLATITUDE": 25.0358302958326
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "新店區",
+        "COUNTYID": "F",
+        "ZIPCODE": 231,
+        "CENTERLONGITUDE": 121.531656512958,
+        "CENTERLATITUDE": 24.9303900802627
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "樹林區",
+        "COUNTYID": "F",
+        "ZIPCODE": 238,
+        "CENTERLONGITUDE": 121.401034016738,
+        "CENTERLATITUDE": 24.9797060913808
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "鶯歌區",
+        "COUNTYID": "F",
+        "ZIPCODE": 239,
+        "CENTERLONGITUDE": 121.346626895661,
+        "CENTERLATITUDE": 24.9566258035001
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "三峽區",
+        "COUNTYID": "F",
+        "ZIPCODE": 237,
+        "CENTERLONGITUDE": 121.416309361506,
+        "CENTERLATITUDE": 24.8820976616482
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "汐止區",
+        "COUNTYID": "F",
+        "ZIPCODE": 221,
+        "CENTERLONGITUDE": 121.654699151196,
+        "CENTERLATITUDE": 25.0733132153259
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "土城區",
+        "COUNTYID": "F",
+        "ZIPCODE": 236,
+        "CENTERLONGITUDE": 121.445736963877,
+        "CENTERLATITUDE": 24.9642510187766
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "蘆洲區",
+        "COUNTYID": "F",
+        "ZIPCODE": 247,
+        "CENTERLONGITUDE": 121.471246078453,
+        "CENTERLATITUDE": 25.0892717336029
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "五股區",
+        "COUNTYID": "F",
+        "ZIPCODE": 248,
+        "CENTERLONGITUDE": 121.433213853806,
+        "CENTERLATITUDE": 25.0961474626239
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "泰山區",
+        "COUNTYID": "F",
+        "ZIPCODE": 243,
+        "CENTERLONGITUDE": 121.416278494902,
+        "CENTERLATITUDE": 25.0554977434058
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "深坑區",
+        "COUNTYID": "F",
+        "ZIPCODE": 222,
+        "CENTERLONGITUDE": 121.620062396071,
+        "CENTERLATITUDE": 24.9976750572865
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "石碇區",
+        "COUNTYID": "F",
+        "ZIPCODE": 223,
+        "CENTERLONGITUDE": 121.647227691335,
+        "CENTERLATITUDE": 24.947141072615
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "坪林區",
+        "COUNTYID": "F",
+        "ZIPCODE": 232,
+        "CENTERLONGITUDE": 121.724223031645,
+        "CENTERLATITUDE": 24.9109707337004
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "平溪區",
+        "COUNTYID": "F",
+        "ZIPCODE": 226,
+        "CENTERLONGITUDE": 121.757881661175,
+        "CENTERLATITUDE": 25.0260706835976
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "雙溪區",
+        "COUNTYID": "F",
+        "ZIPCODE": 227,
+        "CENTERLONGITUDE": 121.832982249544,
+        "CENTERLATITUDE": 24.9969839354837
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "烏來區",
+        "COUNTYID": "F",
+        "ZIPCODE": 233,
+        "CENTERLONGITUDE": 121.541480607189,
+        "CENTERLATITUDE": 24.7882429504504
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "中區",
+        "COUNTYID": "B",
+        "ZIPCODE": 400,
+        "CENTERLONGITUDE": 120.680597955965,
+        "CENTERLATITUDE": 24.1416856565085
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "東區",
+        "COUNTYID": "B",
+        "ZIPCODE": 401,
+        "CENTERLONGITUDE": 120.697086545457,
+        "CENTERLATITUDE": 24.137332091457
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "南區",
+        "COUNTYID": "B",
+        "ZIPCODE": 402,
+        "CENTERLONGITUDE": 120.664617783895,
+        "CENTERLATITUDE": 24.121141073247
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "西區",
+        "COUNTYID": "B",
+        "ZIPCODE": 403,
+        "CENTERLONGITUDE": 120.66475789591,
+        "CENTERLATITUDE": 24.1439108164717
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "北區",
+        "COUNTYID": "B",
+        "ZIPCODE": 404,
+        "CENTERLONGITUDE": 120.680952051393,
+        "CENTERLATITUDE": 24.1586398469065
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "西屯區",
+        "COUNTYID": "B",
+        "ZIPCODE": 407,
+        "CENTERLONGITUDE": 120.627013103936,
+        "CENTERLATITUDE": 24.183088949355
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "北屯區",
+        "COUNTYID": "B",
+        "ZIPCODE": 406,
+        "CENTERLONGITUDE": 120.736231935829,
+        "CENTERLATITUDE": 24.1840029753319
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "豐原區",
+        "COUNTYID": "B",
+        "ZIPCODE": 420,
+        "CENTERLONGITUDE": 120.737571509732,
+        "CENTERLATITUDE": 24.2499029780456
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "東勢區",
+        "COUNTYID": "B",
+        "ZIPCODE": 423,
+        "CENTERLONGITUDE": 120.840140084705,
+        "CENTERLATITUDE": 24.2495263743237
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "沙鹿區",
+        "COUNTYID": "B",
+        "ZIPCODE": 433,
+        "CENTERLONGITUDE": 120.583862800102,
+        "CENTERLATITUDE": 24.2342521208272
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "后里區",
+        "COUNTYID": "B",
+        "ZIPCODE": 421,
+        "CENTERLONGITUDE": 120.714612711165,
+        "CENTERLATITUDE": 24.3096248312458
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "神岡區",
+        "COUNTYID": "B",
+        "ZIPCODE": 429,
+        "CENTERLONGITUDE": 120.673332072455,
+        "CENTERLATITUDE": 24.2656800824782
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "潭子區",
+        "COUNTYID": "B",
+        "ZIPCODE": 427,
+        "CENTERLONGITUDE": 120.710997030495,
+        "CENTERLATITUDE": 24.2117112129479
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "大雅區",
+        "COUNTYID": "B",
+        "ZIPCODE": 428,
+        "CENTERLONGITUDE": 120.641181808449,
+        "CENTERLATITUDE": 24.2270418054231
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "新社區",
+        "COUNTYID": "B",
+        "ZIPCODE": 426,
+        "CENTERLONGITUDE": 120.831322824897,
+        "CENTERLATITUDE": 24.1776928886914
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "石岡區",
+        "COUNTYID": "B",
+        "ZIPCODE": 422,
+        "CENTERLONGITUDE": 120.790382211404,
+        "CENTERLATITUDE": 24.2649329928369
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "外埔區",
+        "COUNTYID": "B",
+        "ZIPCODE": 438,
+        "CENTERLONGITUDE": 120.665063905792,
+        "CENTERLATITUDE": 24.3355107110373
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "大肚區",
+        "COUNTYID": "B",
+        "ZIPCODE": 432,
+        "CENTERLONGITUDE": 120.554324318972,
+        "CENTERLATITUDE": 24.1446750443905
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "霧峰區",
+        "COUNTYID": "B",
+        "ZIPCODE": 413,
+        "CENTERLONGITUDE": 120.720198946627,
+        "CENTERLATITUDE": 24.0433278531667
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "太平區",
+        "COUNTYID": "B",
+        "ZIPCODE": 411,
+        "CENTERLONGITUDE": 120.773421651981,
+        "CENTERLATITUDE": 24.1147737500824
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "大里區",
+        "COUNTYID": "B",
+        "ZIPCODE": 412,
+        "CENTERLONGITUDE": 120.692626052507,
+        "CENTERLATITUDE": 24.0957574180508
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "和平區",
+        "COUNTYID": "B",
+        "ZIPCODE": 424,
+        "CENTERLONGITUDE": 121.14018498125,
+        "CENTERLATITUDE": 24.2762027704255
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "新營區",
+        "COUNTYID": "D",
+        "ZIPCODE": 730,
+        "CENTERLONGITUDE": 120.295406652298,
+        "CENTERLATITUDE": 23.3015248791418
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "鹽水區",
+        "COUNTYID": "D",
+        "ZIPCODE": 737,
+        "CENTERLONGITUDE": 120.24829774892,
+        "CENTERLATITUDE": 23.2979862155684
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "白河區",
+        "COUNTYID": "D",
+        "ZIPCODE": 732,
+        "CENTERLONGITUDE": 120.457856483834,
+        "CENTERLATITUDE": 23.3513206776777
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "柳營區",
+        "COUNTYID": "D",
+        "ZIPCODE": 736,
+        "CENTERLONGITUDE": 120.354920451161,
+        "CENTERLATITUDE": 23.2688700075896
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "後壁區",
+        "COUNTYID": "D",
+        "ZIPCODE": 731,
+        "CENTERLONGITUDE": 120.348508095152,
+        "CENTERLATITUDE": 23.3620147798074
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "東山區",
+        "COUNTYID": "D",
+        "ZIPCODE": 733,
+        "CENTERLONGITUDE": 120.44412105935,
+        "CENTERLATITUDE": 23.2783186961336
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "麻豆區",
+        "COUNTYID": "D",
+        "ZIPCODE": 721,
+        "CENTERLONGITUDE": 120.24130798559,
+        "CENTERLATITUDE": 23.1824803308858
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "下營區",
+        "COUNTYID": "D",
+        "ZIPCODE": 735,
+        "CENTERLONGITUDE": 120.264840039778,
+        "CENTERLATITUDE": 23.2310397813217
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "六甲區",
+        "COUNTYID": "D",
+        "ZIPCODE": 734,
+        "CENTERLONGITUDE": 120.38002590699,
+        "CENTERLATITUDE": 23.227267200863
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "官田區",
+        "COUNTYID": "D",
+        "ZIPCODE": 720,
+        "CENTERLONGITUDE": 120.347991836792,
+        "CENTERLATITUDE": 23.1909854778619
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "大內區",
+        "COUNTYID": "D",
+        "ZIPCODE": 742,
+        "CENTERLONGITUDE": 120.39881466497,
+        "CENTERLATITUDE": 23.1448215187598
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "佳里區",
+        "COUNTYID": "D",
+        "ZIPCODE": 722,
+        "CENTERLONGITUDE": 120.178592982589,
+        "CENTERLATITUDE": 23.1669941039885
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "學甲區",
+        "COUNTYID": "D",
+        "ZIPCODE": 726,
+        "CENTERLONGITUDE": 120.184186456857,
+        "CENTERLATITUDE": 23.2521980511024
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "西港區",
+        "COUNTYID": "D",
+        "ZIPCODE": 723,
+        "CENTERLONGITUDE": 120.200230946655,
+        "CENTERLATITUDE": 23.1249189309139
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "新化區",
+        "COUNTYID": "D",
+        "ZIPCODE": 712,
+        "CENTERLONGITUDE": 120.335796415269,
+        "CENTERLATITUDE": 23.0339454495952
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "善化區",
+        "COUNTYID": "D",
+        "ZIPCODE": 741,
+        "CENTERLONGITUDE": 120.298827360654,
+        "CENTERLATITUDE": 23.1403107171919
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "新市區",
+        "COUNTYID": "D",
+        "ZIPCODE": 744,
+        "CENTERLONGITUDE": 120.292394080817,
+        "CENTERLATITUDE": 23.0831949587749
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "安定區",
+        "COUNTYID": "D",
+        "ZIPCODE": 745,
+        "CENTERLONGITUDE": 120.229623491329,
+        "CENTERLATITUDE": 23.0997492735956
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "山上區",
+        "COUNTYID": "D",
+        "ZIPCODE": 743,
+        "CENTERLONGITUDE": 120.370976970087,
+        "CENTERLATITUDE": 23.096893290042
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "玉井區",
+        "COUNTYID": "D",
+        "ZIPCODE": 714,
+        "CENTERLONGITUDE": 120.460962233931,
+        "CENTERLATITUDE": 23.1148092578141
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "楠西區",
+        "COUNTYID": "D",
+        "ZIPCODE": 715,
+        "CENTERLONGITUDE": 120.517030447799,
+        "CENTERLATITUDE": 23.1788585441513
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "南化區",
+        "COUNTYID": "D",
+        "ZIPCODE": 716,
+        "CENTERLONGITUDE": 120.544122314181,
+        "CENTERLATITUDE": 23.1151111011028
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "左鎮區",
+        "COUNTYID": "D",
+        "ZIPCODE": 713,
+        "CENTERLONGITUDE": 120.412391670282,
+        "CENTERLATITUDE": 23.0260461084659
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "仁德區",
+        "COUNTYID": "D",
+        "ZIPCODE": 717,
+        "CENTERLONGITUDE": 120.241878803323,
+        "CENTERLATITUDE": 22.941309314323
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "歸仁區",
+        "COUNTYID": "D",
+        "ZIPCODE": 711,
+        "CENTERLONGITUDE": 120.29306266771,
+        "CENTERLATITUDE": 22.9467946886862
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "關廟區",
+        "COUNTYID": "D",
+        "ZIPCODE": 718,
+        "CENTERLONGITUDE": 120.334282113511,
+        "CENTERLATITUDE": 22.955779089996
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "龍崎區",
+        "COUNTYID": "D",
+        "ZIPCODE": 719,
+        "CENTERLONGITUDE": 120.386937345103,
+        "CENTERLATITUDE": 22.9548227608147
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "永康區",
+        "COUNTYID": "D",
+        "ZIPCODE": 710,
+        "CENTERLONGITUDE": 120.254279463857,
+        "CENTERLATITUDE": 23.0272953208971
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "東區",
+        "COUNTYID": "D",
+        "ZIPCODE": 701,
+        "CENTERLONGITUDE": 120.228185832637,
+        "CENTERLATITUDE": 22.9817820154305
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "北區",
+        "COUNTYID": "D",
+        "ZIPCODE": 704,
+        "CENTERLONGITUDE": 120.206873519147,
+        "CENTERLATITUDE": 23.0101217915486
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "中西區",
+        "COUNTYID": "D",
+        "ZIPCODE": 700,
+        "CENTERLONGITUDE": 120.192874040458,
+        "CENTERLATITUDE": 22.9959445800045
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "林園區",
+        "COUNTYID": "E",
+        "ZIPCODE": 832,
+        "CENTERLONGITUDE": 120.399052023307,
+        "CENTERLATITUDE": 22.5081374273657
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "茄萣區",
+        "COUNTYID": "E",
+        "ZIPCODE": 852,
+        "CENTERLONGITUDE": 120.198051914769,
+        "CENTERLATITUDE": 22.8824139949241
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "永安區",
+        "COUNTYID": "E",
+        "ZIPCODE": 828,
+        "CENTERLONGITUDE": 120.228051044198,
+        "CENTERLATITUDE": 22.8222458485137
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "彌陀區",
+        "COUNTYID": "E",
+        "ZIPCODE": 827,
+        "CENTERLONGITUDE": 120.239457106875,
+        "CENTERLATITUDE": 22.7794452802184
+    },
+    {
+        "COUNTYNAME": "高雄市",
+        "TOWNNAME": "梓官區",
+        "COUNTYID": "E",
+        "ZIPCODE": 826,
+        "CENTERLONGITUDE": 120.25939886626,
+        "CENTERLATITUDE": 22.7482089998094
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "淡水區",
+        "COUNTYID": "F",
+        "ZIPCODE": 251,
+        "CENTERLONGITUDE": 121.463903972722,
+        "CENTERLATITUDE": 25.1890763551977
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "瑞芳區",
+        "COUNTYID": "F",
+        "ZIPCODE": 224,
+        "CENTERLONGITUDE": 121.823201831477,
+        "CENTERLATITUDE": 25.0981293015765
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "林口區",
+        "COUNTYID": "F",
+        "ZIPCODE": 244,
+        "CENTERLONGITUDE": 121.352723465966,
+        "CENTERLATITUDE": 25.1000867976974
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "三芝區",
+        "COUNTYID": "F",
+        "ZIPCODE": 252,
+        "CENTERLONGITUDE": 121.515558034279,
+        "CENTERLATITUDE": 25.2315989107011
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "石門區",
+        "COUNTYID": "F",
+        "ZIPCODE": 253,
+        "CENTERLONGITUDE": 121.569276069795,
+        "CENTERLATITUDE": 25.2651807948608
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "八里區",
+        "COUNTYID": "F",
+        "ZIPCODE": 249,
+        "CENTERLONGITUDE": 121.413835888478,
+        "CENTERLATITUDE": 25.1381276294898
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "貢寮區",
+        "COUNTYID": "F",
+        "ZIPCODE": 228,
+        "CENTERLONGITUDE": 121.918246603882,
+        "CENTERLATITUDE": 25.0248564111362
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "金山區",
+        "COUNTYID": "F",
+        "ZIPCODE": 208,
+        "CENTERLONGITUDE": 121.605263880264,
+        "CENTERLATITUDE": 25.2171459417189
+    },
+    {
+        "COUNTYNAME": "新北市",
+        "TOWNNAME": "萬里區",
+        "COUNTYID": "F",
+        "ZIPCODE": 207,
+        "CENTERLONGITUDE": 121.643930689874,
+        "CENTERLATITUDE": 25.1757245657826
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "大甲區",
+        "COUNTYID": "B",
+        "ZIPCODE": 437,
+        "CENTERLONGITUDE": 120.635790079388,
+        "CENTERLATITUDE": 24.3782716100558
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "清水區",
+        "COUNTYID": "B",
+        "ZIPCODE": 436,
+        "CENTERLONGITUDE": 120.580909375895,
+        "CENTERLATITUDE": 24.2920574312824
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "大安區",
+        "COUNTYID": "B",
+        "ZIPCODE": 439,
+        "CENTERLONGITUDE": 120.591440730399,
+        "CENTERLATITUDE": 24.3650955543506
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "龍井區",
+        "COUNTYID": "B",
+        "ZIPCODE": 434,
+        "CENTERLONGITUDE": 120.528372834084,
+        "CENTERLATITUDE": 24.200628921148
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "七股區",
+        "COUNTYID": "D",
+        "ZIPCODE": 724,
+        "CENTERLONGITUDE": 120.100585435516,
+        "CENTERLATITUDE": 23.1232657776071
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "將軍區",
+        "COUNTYID": "D",
+        "ZIPCODE": 725,
+        "CENTERLONGITUDE": 120.127695770615,
+        "CENTERLATITUDE": 23.2083441344695
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "北門區",
+        "COUNTYID": "D",
+        "ZIPCODE": 727,
+        "CENTERLONGITUDE": 120.126235715049,
+        "CENTERLATITUDE": 23.2777707960042
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "南區",
+        "COUNTYID": "D",
+        "ZIPCODE": 702,
+        "CENTERLONGITUDE": 120.190374322995,
+        "CENTERLATITUDE": 22.9556186296054
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "安南區",
+        "COUNTYID": "D",
+        "ZIPCODE": 709,
+        "CENTERLONGITUDE": 120.152618883881,
+        "CENTERLATITUDE": 23.0486968107293
+    },
+    {
+        "COUNTYNAME": "台南市",
+        "TOWNNAME": "安平區",
+        "COUNTYID": "D",
+        "ZIPCODE": 708,
+        "CENTERLONGITUDE": 120.164994873891,
+        "CENTERLATITUDE": 22.9900843738317
+    },
+    {
+        "COUNTYNAME": "台中市",
+        "TOWNNAME": "梧棲區",
+        "COUNTYID": "B",
+        "ZIPCODE": 435,
+        "CENTERLONGITUDE": 120.530125927052,
+        "CENTERLATITUDE": 24.2455243140682
+    },
+    {
+        "COUNTYNAME": "桃園市",
+        "TOWNNAME": "桃園區",
+        "COUNTYID": "H",
+        "ZIPCODE": 330,
+        "CENTERLONGITUDE": 121.29966124268,
+        "CENTERLATITUDE": 25.0004002432785
+    },
+    {
+        "COUNTYNAME": "桃園市",
+        "TOWNNAME": "中壢區",
+        "COUNTYID": "H",
+        "ZIPCODE": 320,
+        "CENTERLONGITUDE": 121.214724251394,
+        "CENTERLATITUDE": 24.9799380254332
+    },
+    {
+        "COUNTYNAME": "桃園市",
+        "TOWNNAME": "大溪區",
+        "COUNTYID": "H",
+        "ZIPCODE": 335,
+        "CENTERLONGITUDE": 121.296341978583,
+        "CENTERLATITUDE": 24.8679702583614
+    },
+    {
+        "COUNTYNAME": "桃園市",
+        "TOWNNAME": "楊梅區",
+        "COUNTYID": "H",
+        "ZIPCODE": 326,
+        "CENTERLONGITUDE": 121.129169654279,
+        "CENTERLATITUDE": 24.9182098919976
+    },
+    {
+        "COUNTYNAME": "桃園市",
+        "TOWNNAME": "蘆竹區",
+        "COUNTYID": "H",
+        "ZIPCODE": 338,
+        "CENTERLONGITUDE": 121.283126636455,
+        "CENTERLATITUDE": 25.0607333655796
+    }
+]

@@ -1,0 +1,22 @@
+#querySection{
+    height: 100px; 
+    width:90%;
+    margin-left: 5%;
+    /* border: 3px blue solid; */
+    background: antiquewhite;
+    border-radius: 10px;
+}
+#map{
+    height: 800px; 
+    width: 90%;
+    margin-left: 5%;
+    border-radius: 10px;
+    
+}
+hr{
+    width: 90%;
+    margin-left: 5%;
+}
+label,h1{
+    margin: 10px;
+}

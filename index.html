@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+        integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+        crossorigin="" />
+    <link rel="stylesheet" href="style/index.css" />
+</head>
+
+<body>
+    <div id="querySection">
+        <h1>GOGORO 充電站地圖</h1>
+        <section>
+            <label for='city'>請選擇城市</label>
+            <select id='city' name='city'>
+            </select>
+            <label for='area'>請選擇行政區</label>
+            <select id='area' name='area'>
+            </select>
+            <label>範圍充電站數量<span id='stationcount'>(-)</span></label>
+        </section>
+    </div>
+    <hr>
+    <div id="map"></div>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"
+        integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
+    <script src="scripts/gogoroapi.js"></script>
+</body>
+
+</html>
